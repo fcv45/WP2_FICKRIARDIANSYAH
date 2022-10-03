@@ -10,9 +10,9 @@ class web extends CI_Controller{
 
     public function index(){
         $data['judul'] = "Halaman Depan";
-        $this->load->view('v_header',$data);
-        $this->load->view('v_index',$data);
-        $this->load->view('v_footer',$data);
+        $this->load->view('v_header', $data);
+        $this->load->view('v_index', $data);
+        $this->load->view('v_footer', $data);
     }
 
     public function about()
@@ -22,5 +22,4 @@ class web extends CI_Controller{
         $this->load->view('v_about', $data);
         $this->load->view('v_footer', $data);
     }
-
 }
