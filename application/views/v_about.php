@@ -8,7 +8,7 @@
 <br>
 <h4>Alamat</h4>
 <ul type="none">
-    <li> Jalan kenangan anggrek 23 / 33</li>
+    <li>Jalan kenangan anggrek 23 / 33</li>
 </ul>
 
 <h4>Tempat Lahir</h4>
