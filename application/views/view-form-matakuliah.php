@@ -25,6 +25,13 @@
 </td>
 </tr>
 <tr>
+    <th>Nama MTK</th>
+    <td>:</td>
+    <td>
+        <input type="text" name="nama" id="nama">
+</td>
+</tr>
+<tr>
     <th>SKS</th>
     <td>:</td>
     <td>
